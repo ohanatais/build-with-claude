@@ -65,7 +65,10 @@ When Claude Code introduces a concept you don't recognize, come here. When you n
 
 The goal isn't for you to become technical. It's for you to have enough understanding to make good decisions alongside Claude — and to know when to slow down and ask more questions before approving what's being built.
 
-**Claude Code skills** that support the build process will live directly in this repo — one folder per topic, each with its own SKILL.md, references/, and README.md, following the pattern set by [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy). Planned: `technical-decisions` and `tools-setup`.
+**Claude Code skills** that support the build process live directly in this repo — one folder per topic, each with its own SKILL.md, references/, and README.md, following the pattern set by [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy).
+
+- [`technical-decisions`](technical-decisions) — explain and pressure-test the technical decisions in a build, in plain language
+- `tools-setup` — step-by-step setup of the tools a build needs _(in progress)_
 
 ---
 
@@ -73,7 +76,7 @@ The goal isn't for you to become technical. It's for you to have enough understa
 
 | Content | Status |
 |---|---|
-| Technical decisions explained | 🔄 In progress |
+| Technical decisions explained | ✅ Skill available in [`technical-decisions`](technical-decisions) |
 | Claude Code for non-technical builders | 📋 Planned |
 | Tools setup: GitHub | 📋 Planned |
 | Tools setup: Supabase | 📋 Planned |
