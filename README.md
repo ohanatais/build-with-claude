@@ -65,7 +65,7 @@ When Claude Code introduces a concept you don't recognize, come here. When you n
 
 The goal isn't for you to become technical. It's for you to have enough understanding to make good decisions alongside Claude — and to know when to slow down and ask more questions before approving what's being built.
 
-**Claude Code skills** that support the build process live in [pm-skills](https://github.com/ohanatais/pm-skills) — specifically the `decisoes-tecnicas` and `setup-de-ferramentas` skills.
+**Claude Code skills** that support the build process will live directly in this repo — one folder per topic, each with its own SKILL.md, references/, and README.md, following the pattern set by [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy). Planned: `technical-decisions` and `tools-setup`.
 
 ---
 
@@ -91,7 +91,7 @@ The goal isn't for you to become technical. It's for you to have enough understa
 | [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone, copy |
 | **build-with-claude** | You are here |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, first users |
-| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills · PT-BR |
+| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for product-management day-to-day · PT-BR |
 
 ---
 
