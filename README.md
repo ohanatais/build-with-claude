@@ -67,6 +67,7 @@ The goal isn't for you to become technical. It's for you to have enough understa
 
 **Claude Code skills** that support the build process live directly in this repo — one folder per topic, each with its own SKILL.md, references/, and README.md, following the pattern set by [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy).
 
+- [`working-with-claude`](working-with-claude) — the process of building with Claude Code, from spec to shipped (the conductor that points to Spec Kit, impeccable, review tools, and more)
 - [`technical-decisions`](technical-decisions) — explain and pressure-test the technical decisions in a build, in plain language
 - [`tools-setup`](tools-setup) — step-by-step setup of the tools a build needs (GitHub, Supabase, Vercel, Stripe, email)
 
@@ -77,7 +78,7 @@ The goal isn't for you to become technical. It's for you to have enough understa
 | Content | Status |
 |---|---|
 | Technical decisions explained | ✅ Skill available in [`technical-decisions`](technical-decisions) |
-| Claude Code for non-technical builders | 📋 Planned |
+| Claude Code for non-technical builders | ✅ Skill available in [`working-with-claude`](working-with-claude) |
 | Tools setup (GitHub, Supabase, Vercel, Stripe, email) | ✅ Skill available in [`tools-setup`](tools-setup) |
 
 ---
