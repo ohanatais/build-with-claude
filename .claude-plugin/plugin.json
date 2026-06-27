@@ -1,0 +1,8 @@
+{
+  "name": "build-with-claude",
+  "description": "Skills for building a product with Claude Code as a non-technical builder — the process from spec to shipped, the technical decisions, and the tooling setup.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ohana Taís"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "build-with-claude",
+  "owner": {
+    "name": "Ohana Taís"
+  },
+  "plugins": [
+    {
+      "name": "build-with-claude",
+      "source": "./",
+      "description": "Skills for building a product with Claude Code as a non-technical builder — process, technical decisions, and tooling setup.",
+      "version": "0.1.0"
+    }
+  ]
+}
