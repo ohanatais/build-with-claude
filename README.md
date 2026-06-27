@@ -65,7 +65,7 @@ When Claude Code introduces a concept you don't recognize, come here. When you n
 
 The goal isn't for you to become technical. It's for you to have enough understanding to make good decisions alongside Claude — and to know when to slow down and ask more questions before approving what's being built.
 
-**Claude Code skills** that support the build process live directly in this repo — one folder per topic, each with its own SKILL.md, references/, and README.md, following the pattern set by [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy).
+**Claude Code skills** that support the build process live directly in this repo — one folder per topic, each with its own SKILL.md, references/, and README.md, following the pattern set by [product-discovery](https://github.com/ohanatais/product-discovery) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy).
 
 - [`working-with-claude`](skills/working-with-claude) — the process of building with Claude Code, from spec to shipped (the conductor that points to Spec Kit, impeccable, review tools, and more)
 - [`technical-decisions`](skills/technical-decisions) — explain and pressure-test the technical decisions in a build, in plain language
@@ -88,7 +88,7 @@ The goal isn't for you to become technical. It's for you to have enough understa
 | Repo | Focus |
 |---|---|
 | [build-from-zero](https://github.com/ohanatais/build-from-zero) | End-to-end hub |
-| [product-thinking](https://github.com/ohanatais/product-thinking) | Market research, validation, personas, PRD |
+| [product-discovery](https://github.com/ohanatais/product-discovery) | Market research, validation, personas, PRD |
 | [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone, copy |
 | **build-with-claude** | You are here |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, first users |
