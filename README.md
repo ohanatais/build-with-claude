@@ -88,11 +88,10 @@ The goal isn't for you to become technical. It's for you to have enough understa
 | Repo | Focus |
 |---|---|
 | [build-from-zero](https://github.com/ohanatais/build-from-zero) | End-to-end hub |
-| [product-discovery](https://github.com/ohanatais/product-discovery) | Market research, validation, personas, PRD |
+| [product-discovery](https://github.com/ohanatais/product-discovery) | Opportunity mapping, market research, validation, personas, positioning, PRD |
 | [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone, copy |
 | **build-with-claude** | You are here |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, first users |
-| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for product-management day-to-day |
 
 ---
 
